@@ -66,7 +66,7 @@
           <p>Experts in Gas Filtration and Clean Air Solutions.</p>
         </div>
         <div class="paragraph">
-          <p>A subsidiary of Heycarbons, bringing you factory direct pricing for activated carbon and equipment, 25 years of experience, world-wide factory support, and a well-established strategy for OEMs, Biogas, RNG, Corrosion, and service industries.</p>
+          <p>A subsidiary of <a href="" target="__blank">Heycarbons <img src="img/image2.png" alt=""></a>, bringing you factory direct pricing for activated carbon and equipment, 25 years of experience, world-wide factory support, and a well-established strategy for OEMs, Biogas, RNG, Corrosion, and service industries.</p>
         </div>
         <div class="linea"></div>
       </div>
@@ -148,7 +148,7 @@
             <p>+1 832 314 8905</p>
           </a>
         </div>
-        <a href="" class="button">Inquiry Now</a>
+        <a href="contact.php" class="button">Inquiry Now</a>
       </div>
     </section>
 
@@ -156,7 +156,7 @@
       <div class="glide" id="products">
         <div class="glide__track" data-glide-el="track">
           <ul class="glide__slides">
-            <li class="glide__slide">
+            <!-- <li class="glide__slide">
               <figure>
                 <img src="img/acrux.png" alt="">
               </figure>
@@ -210,7 +210,7 @@
                 hydrocarbons, toluene</p>
 
               <a href="" class="button__secondary">View more</a>
-            </li>
+            </li> -->
           </ul>
         </div>
 
@@ -238,7 +238,7 @@
           <tr>
             <td>
               <div class="tf">
-                <a href="" class="button">more</a>
+                <a href="PDFs/ACRUX.pdf" target="__blank" class="button">more</a>
                 <img src="img/acrux.png">
                 Acrux
               </div>
@@ -251,8 +251,8 @@
           <tr>
             <td>
               <div class="tf">
-                <a href="" class="button">more</a>
-                <img src="img/acrux.png">
+                <a href="PDFs/Pollux MgO.pdf" target="__blank" class="button">more</a>
+                <img src="img/Pollux-KOH-MgO.jpg">
                 Pollux MgO
               </div>
             </td>
@@ -263,8 +263,8 @@
           <tr>
             <td>
               <div class="tf">
-                <a href="" class="button">more</a>
-                <img src="img/acrux.png">
+                <a href="PDFs/Pollux KOH.pdf" target="__blank" class="button">more</a>
+                <img src="img/Pollux-KOH-MgO.jpg">
                 Pollux KOH
               </div>
             </td>
@@ -276,8 +276,8 @@
           <tr>
             <td>
               <div class="tf">
-                <a href="" class="button">more</a>
-                <img src="img/acrux.png">
+                <a href="PDFs/VEGA.pdf" target="__blank" class="button">more</a>
+                <img src="img/ACRUX-VEGA.jpg">
                 Vega
               </div>
             </td>
@@ -288,8 +288,8 @@
           <tr>
             <td>
               <div class="tf">
-                <a href="" class="button">more</a>
-                <img src="img/acrux.png">
+                <a href="PDFs/Orion 8_.pdf" target="__blank" class="button">more</a>
+                <img src="img/Orion-8-12.jpg">
                 Orion 8%
               </div>
             </td>
@@ -301,8 +301,8 @@
           <tr>
             <td>
               <div class="tf">
-                <a href="" class="button">more</a>
-                <img src="img/acrux.png">
+                <a href="PDFs/Orion 12_.pdf" target="__blank" class="button">more</a>
+                <img src="img/Orion-8-12.jpg">
                 Orion 12%
               </div>
             </td>
@@ -314,8 +314,8 @@
           <tr>
             <td>
               <div class="tf">
-                <a href="" class="button">more</a>
-                <img src="img/acrux.png">
+                <a href="PDFs/VEL Blend.pdf" target="__blank" class="button">more</a>
+                <img src="img/VEL-Blend.png">
                 VEL Blend
               </div>
             </td>
@@ -327,8 +327,8 @@
           <tr>
             <td>
               <div class="tf">
-                <a href="" class="button">more</a>
-                <img src="img/acrux.png">
+                <a href="PDFs/GAC Blend.pdf" target="__blank" class="button">more</a>
+                <img src="img/C-GAC-GAC.png">
                 VEL GAC BLEND
               </div>
             </td>
@@ -340,8 +340,8 @@
           <tr>
             <td>
               <div class="tf">
-                <a href="" class="button">more</a>
-                <img src="img/acrux.png">
+                <a href="PDFs/C-GAC Blend.pdf" target="__blank" class="button">more</a>
+                <img src="img/C-GAC-GAC.png">
                 VEL C-GAC BLEND
               </div>
             </td>
@@ -353,8 +353,8 @@
           <tr>
             <td>
               <div class="tf">
-                <a href="" class="button">more</a>
-                <img src="img/acrux.png">
+                <a href="PDFs/Acurx GAC.pdf" target="__blank" class="button">more</a>
+                <img src="img/Acrux-GAC.jpg">
                 ACRUX GAC
               </div>
             </td>
@@ -365,8 +365,8 @@
           <tr>
             <td>
               <div class="tf">
-                <a href="" class="button">more</a>
-                <img src="img/acrux.png">
+                <a href="PDFs/Acrux C-GAC.pdf" target="__blank" class="button">more</a>
+                <img src="img/Acrux-C-GAC.jpg">
                 ACRUX C-GAC
               </div>
             </td>
@@ -378,8 +378,8 @@
           <tr>
             <td>
               <div class="tf">
-                <a href="" class="button">more</a>
-                <img src="img/acrux.png">
+                <a href="PDFs/Acrux Powder.pdf" target="__blank" class="button">more</a>
+                <img src="img/Powder.png">
                 ACRUX POWDER
               </div>
             </td>
@@ -446,6 +446,149 @@
 <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places&key=AIzaSyBGH1F4onWv3EqRqeJ-uf1dNUX-epzkI4U"></script>
 <script src="node_modules/@glidejs/glide/dist/glide.min.js"></script>
 
+<script>
+  let productos = {
+    "0": {
+      "Nombre": "ACRUX",
+      "MediaType": "Virgin Carbon, CTC 50, 60, 70, 80, 90",
+      "TargetApplication": "VOCs of high molecular weight, such as terpenes, hydrocarbons, toluene",
+      "3Items": "VOCs, Siloxanes, Nox",
+      "img": "img/acrux.png"
+    },
+    "1": {
+      "Nombre": "POLLUX MgO",
+      "MediaType": "0.3g/cc H2S capacity, Catalytic Carbon with Magnesium Oxyde",
+      "TargetApplication": "H2S, Mercaptans, low molecular weight VOCs",
+      "3Items": "Biogas, H2S, RNG",
+      "img": "img/Pollux-KOH-MgO.jpg"
+    },
+    "2": {
+      "Nombre": "POLLUX KOH",
+      "MediaType": "0.2g/cc H2S capacity, Catalytic Carbon with Potassium Hydroxide",
+      "TargetApplication": "H2S, Mercaptans, Acid gases, NO2 , SO2",
+      "3Items": "H2S, Mercaptans, VOCs",
+      "img": "img/Pollux-KOH-MgO.jpg"
+    },
+    "3": {
+      "Nombre": "VEGA",
+      "MediaType": "CTC 60 with Phosphoric acid for Ammonia",
+      "TargetApplication": "NH3 , Basic gases, Amines",
+      "3Items": "Ammonia, Basic gases",
+      "img": "img/ACRUX-VEGA.jpg"
+    },
+    "4": {
+      "Nombre": "ORION 8%",
+      "MediaType": "KMnO4 - Potassium permanganate impregnated alumina",
+      "TargetApplication": "H2S, SO2, NOx, formaldehyde, ethylene, other corrosive gases, low molecular weight VOCs",
+      "3Items": "Odor, VOCs, Nox",
+      "img": "img/Orion-8-12.jpg"
+    },
+    "5": {
+      "Nombre": "ORION 12%",
+      "MediaType": "KMnO4 - Potassium permanganate impregnated alumina",
+      "TargetApplication": "H2S, SO2, NOx, formaldehyde, ethylene, other corrosive gases, low molecular weight VOCs",
+      "3Items": "Odor, VOCs, Nox",
+      "img": "img/Orion-8-12.jpg"
+    },
+    "6": {
+      "Nombre": "VEL Blend",
+      "MediaType": "Potassium permanganate +",
+      "TargetApplication": "Wide range of gases depending on the media being blended.",
+      "3Items": "Odor, VOCs, Nox",
+      "img": "img/VEL-Blend.png"
+    },
+    "7": {
+      "Nombre": "VEL GAC BLEND",
+      "MediaType": "Potassium permanganate + Granular Carbon",
+      "TargetApplication": "Wide range of gases depending on the media being blended.",
+      "3Items": "Odor, VOCs, Nox",
+      "img": "img/VEL-Blend.png"
+    },
+    "8": {
+      "Nombre": "VEL C-GAC BLEND",
+      "MediaType": "Potassium permanganate + Cononut shell carbon",
+      "TargetApplication": "Wide range of gases depending on the media being blended.",
+      "3Items": "Odor, VOCs, Nox",
+      "img": "img/acrux.png"
+    },
+    "9": {
+      "Nombre": "ACRUX GAC",
+      "MediaType": "Granular Virgin Carbon",
+      "TargetApplication": "VOCs of high molecular weight, water treatment",
+      "3Items": "Odor, VOCs, Nox",
+      "img": "img/Acrux-GAC.jpg"
+    },
+    "10": {
+      "Nombre": "ACRUX C-GAC",
+      "MediaType": "Coconut Shell Carbon",
+      "TargetApplication": "VOCs of high molecular weight, such as terpenes, hydrocarbons, toluene",
+      "3Items": "Odor, VOCs, Nox",
+      "img": "img/Acrux-C-GAC.jpg"
+    },
+    "11": {
+      "Nombre": "ACRUX POWDER",
+      "MediaType": "Powder Virgin Carbon",
+      "TargetApplication": "Mercury, CODs, BODs, and VOCs of high molecular weight, such as terpenes, hydrocarbons, toluene",
+      "3Items": "WWT, Mercury, VOCs",
+      "img": "img/Powder.png"
+    }
+  }
+
+  const productSlides = document.querySelector('.glide__slides');
+
+  for (let index in productos) {
+    const producto = `<li class="glide__slide">
+              <figure>
+                <img src=${productos[index]['img']} alt="">
+              </figure>
+              <h3>${productos[index]['Nombre']}</h3>
+              <hr>
+              <p>${productos[index]['TargetApplication']}</p>
+
+              <a href="javascript:void(0)" class="button__secondary show__info">View more</a>
+            </li>`
+
+    productSlides.innerHTML += producto;
+  };
+
+  const items = document.querySelectorAll('.item > p');
+  const picture = document.querySelector('.picture > figure > img');
+  const productTitle = document.querySelector('.description > h3');
+  const mT = document.querySelector('.media > p');
+  const tA = document.querySelector('.application > p')
+  const showInfoBtns = document.querySelectorAll('.show__info');
+
+  showInfoBtns.forEach((showInfoBtn, index) => {
+    showInfoBtn.addEventListener('click', () => {
+      let cardTitle = showInfoBtn.parentElement;
+      cardTitle = cardTitle.firstElementChild;
+      cardTitle = cardTitle.nextElementSibling;
+      console.log(cardTitle);
+      console.log(index);
+      for (let id in productos) {
+        if (index == id) {
+          // console.log(`indice: ${id}`);
+          picture.src = productos[id]['img'];
+          productTitle.innerHTML = productos[id]['Nombre'];
+          mT.innerHTML = productos[id]['MediaType'];
+          tA.innerHTML = productos[id]['TargetApplication'];
+
+          separateItems = productos[id]['3Items'].split(', ');
+          separateItems.forEach((singleItem, idx) => {
+            items.forEach((item, indx) => {
+              if (idx == indx) {
+                items[indx].innerHTML = separateItems[idx];
+              }
+            });
+          });
+          break
+        } else {
+          console.log('error');
+        }
+      };
+    });
+  });
+</script>
 
 <script>
   var products = new Glide("#products", {
@@ -460,8 +603,8 @@
         perView: 1,
       },
     },
-    autoplay: 5000,
-    animationDuration: 2000,
+    autoplay: 4000,
+    animationDuration: 1500,
     animationTimingFunction: "ease-in-out",
   });
 

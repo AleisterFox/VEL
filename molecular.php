@@ -97,7 +97,7 @@
                     <tr>
                         <td>
                             <div class="tf">
-                                <img src="img/acrux.png">
+                                <img src="img/Acrux-GAC.jpg">
                                 ACRUX GAC
                             </div>
                         </td>
@@ -107,7 +107,7 @@
                     <tr>
                         <td>
                             <div class="tf">
-                                <img src="img/acrux.png">
+                                <img src="img/Acrux-C-GAC.jpg">
                                 ACRUX C-GAC (coconut shell)
                             </div>
                         </td>
@@ -117,7 +117,7 @@
                     <tr>
                         <td>
                             <div class="tf">
-                                <img src="img/acrux.png">
+                                <img src="img/Pollux-KOH-MgO.jpg">
                                 Pollux KOH
                             </div>
                         </td>
@@ -127,7 +127,7 @@
                     <tr>
                         <td>
                             <div class="tf">
-                                <img src="img/acrux.png">
+                                <img src="img/Pollux-KOH-MgO.jpg">
                                 Pollux MgO
                             </div>
                         </td>
@@ -137,7 +137,7 @@
                     <tr>
                         <td>
                             <div class="tf">
-                                <img src="img/acrux.png">
+                                <img src="img/ACRUX-VEGA.jpg">
                                 Vega
                             </div>
                         </td>
@@ -158,7 +158,7 @@
                     <tr>
                         <td>
                             <div class="tf">
-                                <img src="img/acrux.png">
+                                <img src="img/Orion-8-12.jpg">
                                 Orion
                             </div>
                         </td>
@@ -177,7 +177,7 @@
                     <tr>
                         <td>
                             <div class="tf">
-                                <img src="img/acrux.png">
+                                <img src="img/VEL-Blend.png">
                                 VEL Blend
                             </div>
                         </td>
@@ -186,7 +186,7 @@
                     <tr>
                         <td>
                             <div class="tf">
-                                <img src="img/acrux.png">
+                                <img src="img/C-GAC-GAC.png">
                                 VEL GAC BLEND
                             </div>
                         </td>
@@ -195,7 +195,7 @@
                     <tr>
                         <td>
                             <div class="tf">
-                                <img src="img/acrux.png">
+                                <img src="img/C-GAC-GAC.png">
                                 VEL C-GAC BLEND
                             </div>
                         </td>
@@ -215,7 +215,7 @@
                     <tr>
                         <td>
                             <div class="tf">
-                                <img src="img/acrux.png">
+                                <img src="img/Powder.png">
                                 ACRUX POWDER
                             </div>
                         </td>

@@ -63,7 +63,7 @@
             <div class="texto">
                 <!-- <div class="linea"></div> -->
                 <div class="title">
-                    <h1>GAS-PHASE PRODUCTS</h1>
+                    <h1>GAS-PHASE EQUIPMENT</h1>
                     <p>Best of the Best</p>
                 </div>
 
@@ -80,14 +80,12 @@
                     </div>
                     <div class="contenido">
                         <div class="left">
-                            <h3>OEM / Distribution</h3>
+                            <h3>Drum Scrubbers</h3>
                             <ul>
-                                <li>Factory direct price</li>
-                                <li>Global factory support</li>
-                                <li>Global logistics</li>
-                                <li>Maquila and labeling option marks you</li>
-                                <li>Engineering</li>
-                                <li>Global quality product</li>
+                                <li>Waste water applications</li>
+                                <li>Polyethylene canister</li>
+                                <li>Polyethylene fan available</li>
+                                
                             </ul>
                             <a href="" class="button">more info</a>
                         </div>
@@ -121,11 +119,11 @@
                     <div class="contenido">
 
                         <div class="left">
-                            <h3>Deep Bed Scrubber</h3>
+                            <h3>Side Access Unit (SAH)</h3>
                             <ul>
-                                <li>Single wall construction</li>
+                                <li>Single or double wall construction</li>
                                 <li>Aluminum, Stainless, or Galvanized material</li>
-                                <li>ECM energy efficient fans</li>
+                                <li>ECM energy efficiency fans</li>
                             </ul>
                             <a href="" class="button">more info</a>
                         </div>
@@ -138,6 +136,28 @@
                         </div>
 
                     </div>
+
+                    <div class="contenido">
+
+                        <div class="left">
+                            <h3>Deep Bed Scrubber</h3>
+                            <ul>
+                                <li>Single wall construction</li>
+                                <li>Aluminum, Stainless, or Galvanized material</li>
+                                <li>ECM energy efficient fans</li>
+                            </ul>
+                            <a href="" class="button">more info</a>
+                        </div>
+
+
+                        <div class="right">
+                            <figure>
+                                <img src="img/deep.png" alt="">
+                            </figure>
+                        </div>
+
+                    </div>
+
 
                 </div>
             </div>
