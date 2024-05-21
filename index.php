@@ -1,22 +1,19 @@
 <!DOCTYPE html>
-<html lang="es" xml:lang="es" style="overflow-x: hidden">
+<html lang="en" xml:lang="en" style="overflow-x: hidden">
 
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="author" content="Molcajete" />
-  <meta name="description" content="Solucionar los problemas de columna vertebral con tratamientos mínimamente invasivos.">
+  <meta name="description" content="Experts in gas filtration and clean air solutions. Explore our wide range of high-quality products designed to enhance air quality in any environment.">
 
-  <meta name="Keywords" content="Doctor, Adrian Abrego, salud, neurocirujano, neurocirugía, internista, especialidad, científico, investigación, CDMX, México">
+  <meta name="Keywords" content="Gas Filtration, Clean Air Solutions, Air Quality, Air Purification, Filtration Experts, High-Quality Air Filters, Air Purification Products, Environmental Solutions, Industrial Air Filters, Home Air Cleaners">
 
   <meta name="robots" content="all" />
   <meta property="og:title" content="VEL International" />
-  <meta property="og:description" content="Cardiología clínica.
-    Subespecialista formado en centro médico nacional Siglo XXI Ciudad de México.
-    Diagnostico y tratamiento de las enfermedades Cardiovasculares (insuficiencia cardiaca, arritmias, bradicardia, taquicardia, bloqueo auriculoventricular, cardiopatía isquémica aguda o crónica, miocardiopatías, enfermedades del pericardio, Hipertensión arterial sistémica, estenosis carotidea, Enfermedad valvular cardiaca, entre otros).
-    Diagnostico especializado con herramientas diagnosticas como ecocardiograma, monitoreo Holter, monitoreo ambulatorio de la presión arterial, Prueba de esfuerzo." />
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://www.drbulmaropadillacardiologia.com" />
+  <meta property="og:description" content="Experts in gas filtration and clean air solutions. Explore our wide range of high-quality products designed to enhance air quality in any environment." />
+  <meta property="og:type" content="website"/>
+  <meta property="og:url" content="https://www.vel-international.com" />
   <meta property="og:image" content="img/imagen.png" />
   <meta property="og:image:width" content="300">
   <meta property="og:image:height" content="300">
@@ -148,7 +145,10 @@
             <p>+1 832 314 8905</p>
           </a>
         </div>
-        <a href="contact.php" class="button">Inquiry Now</a>
+        <div class="buttons">
+          <a href="contact.php" class="button">Inquiry Now</a>
+          <a href="molecular.php#1" class="button more__info--button">More Info</a>
+        </div>
       </div>
     </section>
 
@@ -156,68 +156,13 @@
       <div class="glide" id="products">
         <div class="glide__track" data-glide-el="track">
           <ul class="glide__slides">
-            <!-- <li class="glide__slide">
-              <figure>
-                <img src="img/acrux.png" alt="">
-              </figure>
-              <h3>ACRUX</h3>
-              <hr>
-              <p>VOCs of high molecular weight, such as terpenes,
-                hydrocarbons, toluene</p>
-
-              <a href="" class="button__secondary">View more</a>
-            </li>
-            <li class="glide__slide">
-              <figure>
-                <img src="img/acrux.png" alt="">
-              </figure>
-              <h3>ACRUX</h3>
-              <hr>
-              <p>VOCs of high molecular weight, such as terpenes,
-                hydrocarbons, toluene</p>
-
-              <a href="" class="button__secondary">View more</a>
-            </li>
-            <li class="glide__slide">
-              <figure>
-                <img src="img/acrux.png" alt="">
-              </figure>
-              <h3>ACRUX</h3>
-              <hr>
-              <p>VOCs of high molecular weight, such as terpenes,
-                hydrocarbons, toluene</p>
-
-              <a href="" class="button__secondary">View more</a>
-            </li>
-            <li class="glide__slide">
-              <figure>
-                <img src="img/acrux.png" alt="">
-              </figure>
-              <h3>ACRUX</h3>
-              <hr>
-              <p>VOCs of high molecular weight, such as terpenes,
-                hydrocarbons, toluene</p>
-
-              <a href="" class="button__secondary">View more</a>
-            </li>
-            <li class="glide__slide">
-              <figure>
-                <img src="img/acrux.png" alt="">
-              </figure>
-              <h3>ACRUX</h3>
-              <hr>
-              <p>VOCs of high molecular weight, such as terpenes,
-                hydrocarbons, toluene</p>
-
-              <a href="" class="button__secondary">View more</a>
-            </li> -->
           </ul>
         </div>
 
-        <!-- <div data-glide-el="controls">
+        <div data-glide-el="controls">
           <button data-glide-dir="<"><i class="far fa-arrow-left"></i></button>
           <button data-glide-dir=">"><i class="far fa-arrow-right"></i></button>
-        </div> -->
+        </div>
       </div>
 
 
@@ -231,7 +176,7 @@
             <th>Name</th>
             <th>Media Type</th>
             <th>Target Pollutants</th>
-            <th>3 Items</th>
+            <th>Highlights</th>
           </tr>
         </thead>
         <tbody>
@@ -391,6 +336,7 @@
         </tbody>
       </table>
     </section>
+
     <section id="contact">
       <div class="bg">
         <figure>
@@ -502,14 +448,14 @@
       "MediaType": "Potassium permanganate + Granular Carbon",
       "TargetApplication": "Wide range of gases depending on the media being blended.",
       "3Items": "Odor, VOCs, Nox",
-      "img": "img/VEL-Blend.png"
+      "img": "img/C-GAC-GAC.png"
     },
     "8": {
       "Nombre": "VEL C-GAC BLEND",
       "MediaType": "Potassium permanganate + Cononut shell carbon",
       "TargetApplication": "Wide range of gases depending on the media being blended.",
       "3Items": "Odor, VOCs, Nox",
-      "img": "img/acrux.png"
+      "img": "img/C-GAC-GAC.png"
     },
     "9": {
       "Nombre": "ACRUX GAC",
@@ -557,6 +503,7 @@
   const mT = document.querySelector('.media > p');
   const tA = document.querySelector('.application > p')
   const showInfoBtns = document.querySelectorAll('.show__info');
+  const moreInfoButton = document.querySelector('.more__info--button');
 
   showInfoBtns.forEach((showInfoBtn, index) => {
     showInfoBtn.addEventListener('click', () => {
@@ -572,6 +519,7 @@
           productTitle.innerHTML = productos[id]['Nombre'];
           mT.innerHTML = productos[id]['MediaType'];
           tA.innerHTML = productos[id]['TargetApplication'];
+          moreInfoButton.href = `molecular.php#${id}`;
 
           separateItems = productos[id]['3Items'].split(', ');
           separateItems.forEach((singleItem, idx) => {

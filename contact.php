@@ -5,25 +5,21 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="author" content="Molcajete" />
-    <meta name="description" content="Solucionar los problemas de columna vertebral con tratamientos mínimamente invasivos.">
+    <meta name="description" content="Experts in gas filtration and clean air solutions. Explore our wide range of high-quality products designed to enhance air quality in any environment.">
 
-    <meta name="Keywords" content="Doctor, Adrian Abrego, salud, neurocirujano, neurocirugía, internista, especialidad, científico, investigación, CDMX, México">
+    <meta name="Keywords" content="Gas Filtration, Clean Air Solutions, Air Quality, Air Purification, Filtration Experts, High-Quality Air Filters, Air Purification Products, Environmental Solutions, Industrial Air Filters, Home Air Cleaners">
 
     <meta name="robots" content="all" />
     <meta property="og:title" content="VEL International" />
-    <meta property="og:description" content="Cardiología clínica.
-    Subespecialista formado en centro médico nacional Siglo XXI Ciudad de México.
-    Diagnostico y tratamiento de las enfermedades Cardiovasculares (insuficiencia cardiaca, arritmias, bradicardia, taquicardia, bloqueo auriculoventricular, cardiopatía isquémica aguda o crónica, miocardiopatías, enfermedades del pericardio, Hipertensión arterial sistémica, estenosis carotidea, Enfermedad valvular cardiaca, entre otros).
-    Diagnostico especializado con herramientas diagnosticas como ecocardiograma, monitoreo Holter, monitoreo ambulatorio de la presión arterial, Prueba de esfuerzo." />
+    <meta property="og:description" content="Experts in gas filtration and clean air solutions. Explore our wide range of high-quality products designed to enhance air quality in any environment." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://www.drbulmaropadillacardiologia.com" />
+    <meta property="og:url" content="https://www.vel-international.com" />
     <meta property="og:image" content="img/imagen.png" />
     <meta property="og:image:width" content="300">
     <meta property="og:image:height" content="300">
     <meta property="og:site_name" content="VEL International" />
     <meta name="msapplication-TileColor" content="rgb(16, 48, 55)">
     <meta name="theme-color" content="rgb(16, 48, 55)">
-
     <?php include 'elementos/styles-headers.php' ?>
 
     <script src="js/wow.min.js"></script>
@@ -67,7 +63,10 @@
                         <h1>CONTACT</h1>
                     </div>
                     <div class="paragraph">
-                        <p>Nokomis, FL</p>
+                        <p>Direction</p>
+                        <p>USA-Canada: </p>
+                        <p>Colombia: </p>
+                        <p>México: </p>
                         <a href="mailto:info@vel-international.com"><i class="fas fa-envelope"></i>&nbsp;info@vel-international.com</a>
                         <a href="tel:+1 832 314 8905">+1 832 314 8905</a>
 

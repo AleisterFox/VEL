@@ -409,6 +409,7 @@ h2 {
 #hero .paragraph p {
     width: 68rem;
     max-width: 100%;
+    font-weight: 700;
 }
 
 #hero .paragraph p img {
@@ -733,6 +734,12 @@ h2 {
     font-size: 2rem;
 }
 
+#product__info .buttons {
+    display: flex;
+    align-items: center;
+    column-gap: 2rem;
+}
+
 /* PRODUCT INFO  */
 
 
@@ -747,14 +754,41 @@ h2 {
 }
 
 #products {
-    padding-top: 5rem;
-    padding-bottom: 5rem;
-    overflow-x: hidden;
+    /* padding-top: 5rem; */
+    /* padding-bottom: 5rem; */
+    /* overflow-x: hidden; */
+    min-height: 60rem;
+    max-height: 60rem;
+}
+
+#products button {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 10rem;
+    
+    position: absolute;
+    top: 50%;
+    transform: translateX(-50%);
+    cursor: pointer;
+}
+
+#products button i {
+    font-size: 2rem;
+}
+
+#products button:first-of-type {
+    left: -2rem;
+}
+
+#products button:last-of-type {
+    right: -6rem;
 }
 
 #products__carousel .glide__track {
     overflow: visible !important;
     /* overflow-x: hidden !important; */
+    min-height: 60rem;
+    max-height: 60rem;
 }
 
 #products__carousel .glide__slides {
@@ -1148,6 +1182,10 @@ footer p {
     font-size: 2rem;
 }
 
+.servicio.equipment li  {
+    font-size: 3rem;
+}
+
 .servicio ul.especificaciones {
     list-style: none;
     width: 100%;
@@ -1176,6 +1214,10 @@ footer p {
 
 .servicio .contenido h3 {
     font-size: 3rem;
+}
+
+.servicio.equipment .contenido h3 {
+    font-size: 5rem;
 }
 
 .servicio.equipment .contenido .left {
