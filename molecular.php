@@ -2,31 +2,31 @@
 <html lang="es" xml:lang="es" style="overflow-x: hidden">
 
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="author" content="Molcajete" />
-  <meta name="description" content="Experts in gas filtration and clean air solutions. Explore our wide range of high-quality products designed to enhance air quality in any environment.">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Molcajete" />
+    <meta name="description" content="Experts in gas filtration and clean air solutions. Explore our wide range of high-quality products designed to enhance air quality in any environment.">
 
-  <meta name="Keywords" content="Gas Filtration, Clean Air Solutions, Air Quality, Air Purification, Filtration Experts, High-Quality Air Filters, Air Purification Products, Environmental Solutions, Industrial Air Filters, Home Air Cleaners">
+    <meta name="Keywords" content="Gas Filtration, Clean Air Solutions, Air Quality, Air Purification, Filtration Experts, High-Quality Air Filters, Air Purification Products, Environmental Solutions, Industrial Air Filters, Home Air Cleaners">
 
-  <meta name="robots" content="all" />
-  <meta property="og:title" content="VEL International" />
-  <meta property="og:description" content="Experts in gas filtration and clean air solutions. Explore our wide range of high-quality products designed to enhance air quality in any environment." />
-  <meta property="og:type" content="website"/>
-  <meta property="og:url" content="https://www.vel-international.com" />
-  <meta property="og:image" content="img/imagen.png" />
-  <meta property="og:image:width" content="300">
-  <meta property="og:image:height" content="300">
-  <meta property="og:site_name" content="VEL International" />
-  <meta name="msapplication-TileColor" content="rgb(16, 48, 55)">
-  <meta name="theme-color" content="rgb(16, 48, 55)">
-  <?php include 'elementos/styles-headers.php' ?>
+    <meta name="robots" content="all" />
+    <meta property="og:title" content="VEL International" />
+    <meta property="og:description" content="Experts in gas filtration and clean air solutions. Explore our wide range of high-quality products designed to enhance air quality in any environment." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.vel-international.com" />
+    <meta property="og:image" content="img/imagen.png" />
+    <meta property="og:image:width" content="300">
+    <meta property="og:image:height" content="300">
+    <meta property="og:site_name" content="VEL International" />
+    <meta name="msapplication-TileColor" content="rgb(16, 48, 55)">
+    <meta name="theme-color" content="rgb(16, 48, 55)">
+    <?php include 'elementos/styles-headers.php' ?>
 
-  <script src="js/wow.min.js"></script>
-  <script>
-    new WOW().init();
-  </script>
-  <title>VEL International</title>
+    <script src="js/wow.min.js"></script>
+    <script>
+        new WOW().init();
+    </script>
+    <title>VEL International</title>
 </head>
 
 <body>
@@ -222,9 +222,412 @@
 
         </section>
 
-        <div id="1" style="padding-top: 15vh;">
-            <h1>Lorem, ipsum.</h1>
-        </div>
+        <section id="0" class="info__tab">
+            <div id="product__info">
+                <div class="picture">
+                    <figure>
+                        <img src="img/acrux.png" alt="">
+                    </figure>
+                </div>
+
+                <div class="description">
+                    <h3>ACRUX</h3>
+                    <hr>
+                    <p>Acrux AC is a pelletized virgin activated
+                        carbon derived from anthracite coal
+                        and thermally activated to achieve a
+                        large surface area and high gas
+                        removal capacity, featuring a 60% CTC
+                        adsorption. Acrjx AC is a nonimpregnated carbon pellet which is
+                        specifically designed to eliminate
+                        hydrocarbons, toluene, terpenes, and
+                        other volatile organic compounds
+                        (VOCs), along with nitrogen. In
+                        multiple-bed systems, Acrux AC serves
+                        as a refining filter targeting VOCs with
+                        high molecular weight.
+                    </p>
+                    <div class="buttons">
+                        <a href="contact.php" class="button">Inquiry Now</a>
+                        <a href="PDFs/ACRUX.pdf" class="button more__info--button" target="__blank">More Info</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="1" class="info__tab">
+            <div id="product__info">
+                
+
+                <div class="description">
+                    <h3>Pollux MgO</h3>
+                    <hr>
+                    <p>Our Pollux MgO catalytic carbon is crafted
+                        from premium activated carbon and highquality anthracite, bonded with a
+                        kerosene binder and enriched with
+                        Magnesium Oxide (MgO) before
+                        activation. This unique formulation
+                        ensures exceptional adsorption capacity
+                        and efficiency for hydrogen sulfide (H2S).
+                        The H2S is converted to elemental sulfur
+                        (S) and stored in the carbon micropores.
+                        Pollux carbon boasts excellent mechanical
+                        properties and is purposefully engineered
+                        to eliminate H2S, VOCs, SO2, acidic and
+                        corrosive gases, making it particularly
+                        well-suited for BIOGAS and RNG
+                        applications.
+
+                    </p>
+                    <div class="buttons">
+                        <a href="contact.php" class="button">Inquiry Now</a>
+                        <a href="PDFs/Pollux MgO.pdf" class="button more__info--button" target="__blank">More Info</a>
+                    </div>
+                </div>
+
+                <div class="picture">
+                    <figure>
+                        <img src="img/Pollux-KOH-MgO.jpg" alt="">
+                    </figure>
+                </div>
+            </div>
+        </section>
+
+        <section id="2" class="info__tab">
+            <div id="product__info">
+                <div class="picture">
+                    <figure>
+                        <img src="img/Pollux-KOH-MgO.jpg" alt="">
+                    </figure>
+                </div>
+
+                <div class="description">
+                    <h3>Pollux KOH</h3>
+                    <hr>
+                    <p>Our Pollux KOH catalytic carbon integrates
+                        premium activated carbon and highquality anthracite with a kerosene binder,
+                        enhanced by the addition of Potassium
+                        Hydroxide (KOH) before activation. This
+                        formulation achieves exceptional
+                        adsorption capacity and efficiency for
+                        hydrogen sulfide (H2S), efficiently storing
+                        H2S in the carbon micropores.
+                        Pollux KOH carbon demonstrates
+                        excellent mechanical properties and is
+                        purposefully engineered to eliminate H2S,
+                        VOCs, SO2, and acidic, corrosive gases.
+                    </p>
+                    <div class="buttons">
+                        <a href="contact.php" class="button">Inquiry Now</a>
+                        <a href="PDFs/Pollux KOH.pdf" class="button more__info--button" target="__blank">More Info</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="3" class="info__tab">
+            <div id="product__info">
+                <div class="description">
+                    <h3>Vega</h3>
+                    <hr>
+                    <p>Vega is a bituminous activated carbon
+                        produced from 60% CTC high-quality
+                        anthracite, treated with phosphoric
+                        acid for targeted removal of amines
+                        and basic gases. This carbon is
+                        commonly used for odor mitigation,
+                        VOC absorption, and basic gas removal
+                        due to its high efficiency, excellent
+                        removal capacity, strong resistance to
+                        moisture, and remarkable structural
+                        properties.
+                    </p>
+                    <div class="buttons">
+                        <a href="contact.php" class="button">Inquiry Now</a>
+                        <a href="PDFs/VEGA.pdf" class="button more__info--button" target="__blank">More Info</a>
+                    </div>
+                </div>
+
+                <div class="picture">
+                    <figure>
+                        <img src="img/ACRUX-VEGA.jpg" alt="">
+                    </figure>
+                </div>
+            </div>
+        </section>
+
+        <section id="4" class="info__tab">
+            <div id="product__info">
+                <div class="picture">
+                    <figure>
+                        <img src="img/Orion-8-12.jpg" alt="">
+                    </figure>
+                </div>
+
+                <div class="description">
+                    <h3>Orion 8%</h3>
+                    <hr>
+                    <p>Orion is a spherical alumina-based
+                        adsorbent media infused with
+                        potassium permanganate (KMnO4) as
+                        the active component. Potassium
+                        permanganate is integrated during
+                        manufacturing, ensuring uniform
+                        distribution throughout the process.
+                        This media is engineered to effectively
+                        remove pollutants such as acidic gases,
+                        nitrogen, sulfur compounds, and low
+                        molecular weight VOCs. It boasts high
+                        adsorption capacity, excellent
+                        resistance to moisture, superior
+                        efficiency, and is non-flammable.
+                    </p>
+                    <div class="buttons">
+                        <a href="contact.php" class="button">Inquiry Now</a>
+                        <a href="PDFs/Orion 8_.pdf" class="button more__info--button" target="__blank">More Info</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="5" class="info__tab">
+            <div id="product__info">
+                <div class="description">
+                    <h3>Orion 12%</h3>
+                    <hr>
+                    <p>Orion is a spherical alumina-based
+                        adsorbent media infused with
+                        potassium permanganate (KMnO4) as
+                        the active component. Potassium
+                        permanganate is integrated during
+                        manufacturing, ensuring uniform
+                        distribution throughout the process.
+                        This media is engineered to effectively
+                        remove pollutants such as acidic gases,
+                        nitrogen, sulfur compounds, and low
+                        molecular weight VOCs. It boasts high
+                        adsorption capacity, excellent
+                        resistance to moisture, superior
+                        efficiency, and is non-flammable.
+                    </p>
+                    <div class="buttons">
+                        <a href="contact.php" class="button">Inquiry Now</a>
+                        <a href="PDFs/Orion 12_.pdf" class="button more__info--button" target="__blank">More Info</a>
+                    </div>
+                </div>
+
+                <div class="picture">
+                    <figure>
+                        <img src="img/Orion-8-12.jpg" alt="">
+                    </figure>
+                </div>
+            </div>
+        </section>
+
+        <section id="6" class="info__tab">
+            <div id="product__info">
+                <div class="picture">
+                    <figure>
+                        <img src="img/VEL-Blend.png" alt="">
+                    </figure>
+                </div>
+
+                <div class="description">
+                    <h3>Vel Blend</h3>
+                    <hr>
+                    <p>Our blend combines VEL Acrux
+                        activated carbon sourced from
+                        anthricite coal and VEL Orion. VEL Orion
+                        consists of alumina spheres infused
+                        with 8% potassium permanganate
+                        (KMnO4), while VEL Acrux is CTC60,
+                        virgin activated carbon without
+                        impregnation. This blend effectively
+                        removes high molecular weight
+                        compounds like VOCs, as well as low
+                        molecular weight compounds such as
+                        acidic gases, nitrogen, and sulfur.
+                    </p>
+                    <div class="buttons">
+                        <a href="contact.php" class="button">Inquiry Now</a>
+                        <a href="PDFs/Orion 12_.pdf" class="button more__info--button" target="__blank">More Info</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="7" class="info__tab">
+            <div id="product__info">
+                <div class="description">
+                    <h3>GAC Blend</h3>
+                    <hr>
+                    <p>Our GAC Blend combines VEL granular
+                        activated carbon sourced from
+                        anthricite coal with VEL Orion. VEL
+                        Orion consists of alumina spheres
+                        infused with 8% potassium
+                        permanganate (KMnO4), while VEL GAC
+                        is CTC60 granular virgin activated
+                        carbon without impregnation. This
+                        blend effectively removes high
+                        molecular weight compounds like
+                        VOCs, as well as low molecular weight
+                        compounds such as acidic gases,
+                        nitrogen, and sulfur.
+                    </p>
+                    <div class="buttons">
+                        <a href="contact.php" class="button">Inquiry Now</a>
+                        <a href="PDFs/GAC Blend.pdf" class="button more__info--button" target="__blank">More Info</a>
+                    </div>
+                </div>
+
+                <div class="picture">
+                    <figure>
+                        <img src="img/C-GAC-GAC.png" alt="">
+                    </figure>
+                </div>
+            </div>
+        </section>
+
+        <section id="8" class="info__tab">
+            <div id="product__info">
+                <div class="picture">
+                    <figure>
+                        <img src="img/C-GAC-GAC.png" alt="">
+                    </figure>
+                </div>
+
+                <div class="description">
+                    <h3>C-GAC Blend</h3>
+                    <hr>
+                    <p>Our C-GAC Blend combines VEL
+                        granular activated carbon sourced
+                        from coconut shells with VEL Orion. VEL
+                        Orion consists of alumina spheres
+                        infused with 8% potassium
+                        permanganate (KMnO4), while VEL CGAC is virgin activated carbon without
+                        impregnation. This blend effectively
+                        removes high molecular weight
+                        compounds like VOCs, as well as low
+                        molecular weight compounds such as
+                        acidic gases, nitrogen, and sulfur.
+                    </p>
+                    <div class="buttons">
+                        <a href="contact.php" class="button">Inquiry Now</a>
+                        <a href="PDFs/C-GAC Blend.pdf" class="button more__info--button" target="__blank">More Info</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="9" class="info__tab">
+            <div id="product__info">
+                <div class="description">
+                    <h3>ACRUX GAC</h3>
+                    <hr>
+                    <p>Acrux GAC is a high activity granular
+                        activated carbon obtained from
+                        bituminous, anthracite coal and is
+                        thermally activated by steam to gain a
+                        large surface area and high gas
+                        removal capacity. Acrux GAC has an
+                        enhanced pore structure that provides
+                        an outstanding perfomance in water
+                        treatment and food decolorization
+                        applications, as well as a great
+                        adsorption capacity for mid-to-high
+                        molecular weight compouds, such as
+                        hydrocarbons, toluene, terpenes and
+                        other VOC's.
+                    </p>
+                    <div class="buttons">
+                        <a href="contact.php" class="button">Inquiry Now</a>
+                        <a href="PDFs/Acurx GAC.pdf" class="button more__info--button" target="__blank">More Info</a>
+                    </div>
+                </div>
+
+                <div class="picture">
+                    <figure>
+                        <img src="img/Acrux-GAC.jpg" alt="">
+                    </figure>
+                </div>
+            </div>
+        </section>
+
+        <section id="10" class="info__tab">
+            <div id="product__info">
+                <div class="picture">
+                    <figure>
+                        <img src="img/Acrux-C-GAC.jpg" alt="">
+                    </figure>
+                </div>
+
+                <div class="description">
+                    <h3>ACRUX C-GAC</h3>
+                    <hr>
+                    <p>The Acrux C-GAC is a high-activity
+                        granular activated carbon sourced
+                        from carefully selected coconut shells
+                        to ensure robustness and durability.
+                        This carbon undergoes thermal
+                        activation with steam to achieve a
+                        large surface area and high gas
+                        removal capacity. Acrux C-GAC
+                        features an enhanced pore structure
+                        that excels in adsorbing mid-to-high
+                        molecular weight compounds,
+                        including hydrocarbons, toluene,
+                        terpenes, and other volatile organic
+                        compounds (VOCs).
+                    </p>
+                    <div class="buttons">
+                        <a href="contact.php" class="button">Inquiry Now</a>
+                        <a href="PDFs/Acrux C-GAC.pdf" class="button more__info--button" target="__blank">More Info</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="11" class="info__tab">
+            <div id="product__info">
+                <div class="description">
+                    <h3>ACRUX POWDER</h3>
+                    <hr>
+                    <p>Acrux Powder carbon is a finely steamactivated carbon designed for
+                        applications like water taste and odor
+                        control, as well as the removal of
+                        organic compounds. This carbon excels
+                        in removing dioxins, volatile organic
+                        compounds (VOCs), mercury, and
+                        other contaminants from flue gases. It
+                        is also effective for desulfurization,
+                        denitrification, adsorption, and
+                        catalytic conversion of sulfur
+                        compounds such as sulfur dioxide
+                        (SO2) and reduction of nitrogen oxide
+                        (NOx) emissions.
+                        Additionally, Acrux Powder carbon is
+                        suitable for removing COD (chemical
+                        oxygen demand), BOD (biological
+                        oxygen demand), color from
+                        wastewater, as well as other organic
+                        pollutants, pigments, odors, and metal
+                        ions through catalytic oxidation in
+                        wastewater treatment applications.
+                    </p>
+                    <div class="buttons">
+                        <a href="contact.php" class="button">Inquiry Now</a>
+                        <a href="PDFs/Acrux Powder.pdf" class="button more__info--button" target="__blank">More Info</a>
+                    </div>
+                </div>
+
+                <div class="picture">
+                    <figure>
+                        <img src="img/Powder.png" alt="">
+                    </figure>
+                </div>
+            </div>
+        </section>
 
         <section id="contact">
             <div class="bg">

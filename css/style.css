@@ -361,6 +361,10 @@ h2 {
     padding: var(--padding);
 }
 
+#hero .texto .logo-fondo figure img {
+    border-radius: 3rem;
+}
+
 #hero .texto figure {
     width: 60rem;
     max-width: 100%;
@@ -890,6 +894,12 @@ table tr td:first-of-type .button {
 }
 
 /* PRODUCTS TABLE  */
+
+/* INFO TAB  */
+
+
+
+/* INFO TAB  */
 
 /* CONTACT  */
 

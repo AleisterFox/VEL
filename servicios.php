@@ -2,31 +2,31 @@
 <html lang="es" xml:lang="es" style="overflow-x: hidden">
 
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="author" content="Molcajete" />
-  <meta name="description" content="Experts in gas filtration and clean air solutions. Explore our wide range of high-quality products designed to enhance air quality in any environment.">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Molcajete" />
+    <meta name="description" content="Experts in gas filtration and clean air solutions. Explore our wide range of high-quality products designed to enhance air quality in any environment.">
 
-  <meta name="Keywords" content="Gas Filtration, Clean Air Solutions, Air Quality, Air Purification, Filtration Experts, High-Quality Air Filters, Air Purification Products, Environmental Solutions, Industrial Air Filters, Home Air Cleaners">
+    <meta name="Keywords" content="Gas Filtration, Clean Air Solutions, Air Quality, Air Purification, Filtration Experts, High-Quality Air Filters, Air Purification Products, Environmental Solutions, Industrial Air Filters, Home Air Cleaners">
 
-  <meta name="robots" content="all" />
-  <meta property="og:title" content="VEL International" />
-  <meta property="og:description" content="Experts in gas filtration and clean air solutions. Explore our wide range of high-quality products designed to enhance air quality in any environment." />
-  <meta property="og:type" content="website"/>
-  <meta property="og:url" content="https://www.vel-international.com" />
-  <meta property="og:image" content="img/imagen.png" />
-  <meta property="og:image:width" content="300">
-  <meta property="og:image:height" content="300">
-  <meta property="og:site_name" content="VEL International" />
-  <meta name="msapplication-TileColor" content="rgb(16, 48, 55)">
-  <meta name="theme-color" content="rgb(16, 48, 55)">
-  <?php include 'elementos/styles-headers.php' ?>
+    <meta name="robots" content="all" />
+    <meta property="og:title" content="VEL International" />
+    <meta property="og:description" content="Experts in gas filtration and clean air solutions. Explore our wide range of high-quality products designed to enhance air quality in any environment." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.vel-international.com" />
+    <meta property="og:image" content="img/imagen.png" />
+    <meta property="og:image:width" content="300">
+    <meta property="og:image:height" content="300">
+    <meta property="og:site_name" content="VEL International" />
+    <meta name="msapplication-TileColor" content="rgb(16, 48, 55)">
+    <meta name="theme-color" content="rgb(16, 48, 55)">
+    <?php include 'elementos/styles-headers.php' ?>
 
-  <script src="js/wow.min.js"></script>
-  <script>
-    new WOW().init();
-  </script>
-  <title>VEL International</title>
+    <script src="js/wow.min.js"></script>
+    <script>
+        new WOW().init();
+    </script>
+    <title>VEL International</title>
 </head>
 
 
@@ -76,25 +76,31 @@
 
             <div class="container">
 
-            <div class="servicio">
+                <div class="servicio">
                     <div class="titulo">
-                        <h3>New Service</h3>
+                        <h3>Vessel Leasing</h3>
                     </div>
                     <div class="contenido">
                         <div class="left">
                             <img src="img/cm.png" alt="">
 
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cum veritatis qui adipisci iusto voluptas, illum blanditiis mollitia suscipit iste aliquid autem sint perferendis unde voluptatum odit nostrum! Est necessitatibus velit reiciendis corporis, rerum natus perferendis veritatis similique saepe exercitationem asperiores deserunt! Voluptate voluptatibus aperiam modi alias, nihil sit illum ea?</p>
+                            <p>Do you need to temporarily relieve your carbon filtration needs? We offer vessel leasing to help you with your extra or unexpected demand. Choose from:</p>
+
+                            <ul>
+                                <li>FRP Vessel only</li>
+                                <li>FRP Vessel + required activated carbon</li>
+                                <li>Full service, you don’t move a finger, we take care of everything yearlong! FRP Vessel + required carbon + change overs as required</li>
+                            </ul>
                         </div>
                         <div class="right">
                             <figure>
-                                <img src="img/contract.png" alt="">
+                                <img src="img/vessel.jpg" alt="">
                             </figure>
                         </div>
                     </div>
                 </div>
 
-            <div class="servicio">
+                <div class="servicio">
                     <div class="titulo">
                         <h3>Contract Manufacturing</h3>
                     </div>

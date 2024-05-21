@@ -20,6 +20,7 @@
   <meta property="og:site_name" content="VEL International" />
   <meta name="msapplication-TileColor" content="rgb(16, 48, 55)">
   <meta name="theme-color" content="rgb(16, 48, 55)">
+  <link rel="canonical" href="https://vel-international.com/">
   <?php include 'elementos/styles-headers.php' ?>
 
   <script src="js/wow.min.js"></script>
@@ -63,7 +64,7 @@
           <p>Experts in Gas Filtration and Clean Air Solutions.</p>
         </div>
         <div class="paragraph">
-          <p>A subsidiary of <a href="" target="__blank">Heycarbons <img src="img/image2.png" alt=""></a>, bringing you factory direct pricing for activated carbon and equipment, 25 years of experience, world-wide factory support, and a well-established strategy for OEMs, Biogas, RNG, Corrosion, and service industries.</p>
+          <p>A subsidiary of <a href="https://heycarbons.com/" target="__blank">Heycarbons <img src="img/image2.png" alt=""></a>, bringing you factory direct pricing for activated carbon and equipment, 25 years of experience, direct factory present in Canada, United States, Mexico and Colombia, world-wide factory support, and a well-established strategy for OEMs, Biogas, RNG, Corrosion, and service industries.</p>
         </div>
         <div class="linea"></div>
       </div>
@@ -147,7 +148,7 @@
         </div>
         <div class="buttons">
           <a href="contact.php" class="button">Inquiry Now</a>
-          <a href="molecular.php#1" class="button more__info--button">More Info</a>
+          <a href="molecular.php#0" class="button more__info--button">More Info</a>
         </div>
       </div>
     </section>
@@ -184,7 +185,7 @@
             <td>
               <div class="tf">
                 <a href="PDFs/ACRUX.pdf" target="__blank" class="button">more</a>
-                <img src="img/acrux.png">
+                <img src="img/acrux.png" alt="acrux">
                 Acrux
               </div>
             </td>
@@ -197,7 +198,7 @@
             <td>
               <div class="tf">
                 <a href="PDFs/Pollux MgO.pdf" target="__blank" class="button">more</a>
-                <img src="img/Pollux-KOH-MgO.jpg">
+                <img src="img/Pollux-KOH-MgO.jpg" alt="pollux">
                 Pollux MgO
               </div>
             </td>
@@ -209,7 +210,7 @@
             <td>
               <div class="tf">
                 <a href="PDFs/Pollux KOH.pdf" target="__blank" class="button">more</a>
-                <img src="img/Pollux-KOH-MgO.jpg">
+                <img src="img/Pollux-KOH-MgO.jpg" alt="pollux">
                 Pollux KOH
               </div>
             </td>
@@ -222,7 +223,7 @@
             <td>
               <div class="tf">
                 <a href="PDFs/VEGA.pdf" target="__blank" class="button">more</a>
-                <img src="img/ACRUX-VEGA.jpg">
+                <img src="img/ACRUX-VEGA.jpg" alt="acrux vega">
                 Vega
               </div>
             </td>
@@ -234,7 +235,7 @@
             <td>
               <div class="tf">
                 <a href="PDFs/Orion 8_.pdf" target="__blank" class="button">more</a>
-                <img src="img/Orion-8-12.jpg">
+                <img src="img/Orion-8-12.jpg" alt="Orion">
                 Orion 8%
               </div>
             </td>
@@ -247,7 +248,7 @@
             <td>
               <div class="tf">
                 <a href="PDFs/Orion 12_.pdf" target="__blank" class="button">more</a>
-                <img src="img/Orion-8-12.jpg">
+                <img src="img/Orion-8-12.jpg" alt="Orion">
                 Orion 12%
               </div>
             </td>
@@ -260,7 +261,7 @@
             <td>
               <div class="tf">
                 <a href="PDFs/VEL Blend.pdf" target="__blank" class="button">more</a>
-                <img src="img/VEL-Blend.png">
+                <img src="img/VEL-Blend.png" alt="Vel Blend">
                 VEL Blend
               </div>
             </td>
@@ -273,7 +274,7 @@
             <td>
               <div class="tf">
                 <a href="PDFs/GAC Blend.pdf" target="__blank" class="button">more</a>
-                <img src="img/C-GAC-GAC.png">
+                <img src="img/C-GAC-GAC.png" alt="Vel GAC Blend">
                 VEL GAC BLEND
               </div>
             </td>
@@ -286,7 +287,7 @@
             <td>
               <div class="tf">
                 <a href="PDFs/C-GAC Blend.pdf" target="__blank" class="button">more</a>
-                <img src="img/C-GAC-GAC.png">
+                <img src="img/C-GAC-GAC.png" alt="VEL C-GAC BLEND">
                 VEL C-GAC BLEND
               </div>
             </td>
@@ -299,7 +300,7 @@
             <td>
               <div class="tf">
                 <a href="PDFs/Acurx GAC.pdf" target="__blank" class="button">more</a>
-                <img src="img/Acrux-GAC.jpg">
+                <img src="img/Acrux-GAC.jpg" alt="Acrux GAC">
                 ACRUX GAC
               </div>
             </td>
@@ -311,7 +312,7 @@
             <td>
               <div class="tf">
                 <a href="PDFs/Acrux C-GAC.pdf" target="__blank" class="button">more</a>
-                <img src="img/Acrux-C-GAC.jpg">
+                <img src="img/Acrux-C-GAC.jpg" alt="ACRUX C-GAC">
                 ACRUX C-GAC
               </div>
             </td>
@@ -324,7 +325,7 @@
             <td>
               <div class="tf">
                 <a href="PDFs/Acrux Powder.pdf" target="__blank" class="button">more</a>
-                <img src="img/Powder.png">
+                <img src="img/Powder.png" alt="ACRUX POWDER">
                 ACRUX POWDER
               </div>
             </td>
@@ -485,7 +486,7 @@
   for (let index in productos) {
     const producto = `<li class="glide__slide">
               <figure>
-                <img src=${productos[index]['img']} alt="">
+                <img src=${productos[index]['img']} alt="${productos[index]['Nombre']}">
               </figure>
               <h3>${productos[index]['Nombre']}</h3>
               <hr>
@@ -516,6 +517,7 @@
         if (index == id) {
           // console.log(`indice: ${id}`);
           picture.src = productos[id]['img'];
+          picture.alt = productos[id]['Nombre'];
           productTitle.innerHTML = productos[id]['Nombre'];
           mT.innerHTML = productos[id]['MediaType'];
           tA.innerHTML = productos[id]['TargetApplication'];
