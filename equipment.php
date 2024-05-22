@@ -83,7 +83,7 @@
                                 <li>Polyethylene fan available</li>
 
                             </ul>
-                            <a href="" class="button">more info</a>
+                            <a href="PDFs/VEL DS.pdf" target="__blank" class="button">more info</a>
                         </div>
                         <div class="right">
                             <figure>
@@ -107,7 +107,7 @@
                                 <li>Aluminum, Stainless, or Galvanized material</li>
                                 <li>ECM energy efficient fans</li>
                             </ul>
-                            <a href="" class="button">more info</a>
+                            <a href="PDFs/VEL PPU_RU.pdf" target="__blank" class="button">more info</a>
                         </div>
 
                     </div>
@@ -115,13 +115,13 @@
                     <div class="contenido">
 
                         <div class="left">
-                            <h3>Side Access Unit (SAH)</h3>
+                            <h3>Side Access Unit (SAU)</h3>
                             <ul>
                                 <li>Single or double wall construction</li>
                                 <li>Aluminum, Stainless, or Galvanized material</li>
                                 <li>ECM energy efficiency fans</li>
                             </ul>
-                            <a href="" class="button">more info</a>
+                            <a href="PDFs/VEL SAU.pdf" target="__blank" class="button">more info</a>
                         </div>
 
 
@@ -151,7 +151,7 @@
                                 <li>Aluminum, Stainless, or Galvanized material</li>
                                 <li>ECM energy efficient fans</li>
                             </ul>
-                            <a href="" class="button">more info</a>
+                            <a href="PDFs/VEL DBS.pdf" target="__blank" class="button">more info</a>
                         </div>
 
                     </div>

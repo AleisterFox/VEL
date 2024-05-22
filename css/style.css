@@ -799,6 +799,8 @@ h2 {
     /* column-gap: 3rem; */
     overflow: visible !important;
     align-items: center;
+    min-height: 60rem;
+    max-height: 60rem;
 }
 
 #products__carousel .glide__slide {
@@ -1172,6 +1174,31 @@ footer p {
 .servicio .contenido .right {
     flex-basis: 50rem;
     flex-grow: 1;
+    position: relative;
+    overflow: hidden;
+    border-radius: 4rem;
+}
+
+.servicio .contenido .right .datasheet {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.25);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: all 0.3s ease-in-out;
+}
+
+.servicio .contenido .right .datasheet:hover {
+    opacity: 1;
+}
+
+.servicio .contenido .right .datasheet .button {
+    font-size: 3rem;
 }
 
 .servicio .contenido .left img {
