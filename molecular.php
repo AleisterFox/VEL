@@ -84,7 +84,7 @@
                         <td>
                             <div class="tf">
                                 <img src="img/acrux.png">
-                                Acrux
+                                <a href="#0">ACRUX</a>
                             </div>
                         </td>
                         <td>NO2, CI2, Common VOCs including toluene, alcohol, acetone, ozone</td>
@@ -94,7 +94,7 @@
                         <td>
                             <div class="tf">
                                 <img src="img/Acrux-GAC.jpg">
-                                ACRUX GAC
+                                <a href="#1">ACRUX GAC</a>
                             </div>
                         </td>
                         <td>NO2, CI2, Common VOCs including toluene, alcohol, acetone, ozone</td>
@@ -104,7 +104,7 @@
                         <td>
                             <div class="tf">
                                 <img src="img/Acrux-C-GAC.jpg">
-                                ACRUX C-GAC (coconut shell)
+                                <a href="#2">ACRUX C-GAC (coconut shell)</a>
                             </div>
                         </td>
                         <td>NO2, CI2, Common VOCs including toluene, alcohol, acetone, ozone</td>
@@ -114,7 +114,7 @@
                         <td>
                             <div class="tf">
                                 <img src="img/Pollux-KOH-MgO.jpg">
-                                Pollux KOH
+                                <a href="#3">Pollux KOH</a>
                             </div>
                         </td>
                         <td>H2S, Mercaptan</td>
@@ -124,7 +124,7 @@
                         <td>
                             <div class="tf">
                                 <img src="img/Pollux-KOH-MgO.jpg">
-                                Pollux MgO
+                                <a href="#4">Pollux MgO</a>
                             </div>
                         </td>
                         <td>H2S, Mercaptan</td>
@@ -134,7 +134,7 @@
                         <td>
                             <div class="tf">
                                 <img src="img/ACRUX-VEGA.jpg">
-                                Vega
+                                <a href="#5">Vega</a>
                             </div>
                         </td>
                         <td>NH3</td>
@@ -155,7 +155,7 @@
                         <td>
                             <div class="tf">
                                 <img src="img/Orion-8-12.jpg">
-                                Orion
+                                <a href="#6">Orion</a>
                             </div>
                         </td>
                         <td>H2S, SO2, NO2, NO, HCHO, mercaptan, dimethyl sulfide, phosphine, ethylene, alcohol</td>
@@ -174,7 +174,7 @@
                         <td>
                             <div class="tf">
                                 <img src="img/VEL-Blend.png">
-                                VEL Blend
+                                <a href="#7">VEL Blend</a>
                             </div>
                         </td>
                         <td>H2S, SO2, NO, HCHO, NO2, ethylene, mercaptan, dimethyl sulfide, (VOCs) toluene, alcohol, acetone, ozone</td>
@@ -183,7 +183,7 @@
                         <td>
                             <div class="tf">
                                 <img src="img/C-GAC-GAC.png">
-                                VEL GAC BLEND
+                                <a href="#8">VEL GAC BLEND</a>
                             </div>
                         </td>
                         <td>H2S, SO2, NO, NO2, HCHO, CI2, mercaptan, dimethyl sulfide, phosphine, ethylene, alcohol</td>
@@ -192,7 +192,7 @@
                         <td>
                             <div class="tf">
                                 <img src="img/C-GAC-GAC.png">
-                                VEL C-GAC BLEND
+                                <a href="#9">VEL C-GAC BLEND</a>
                             </div>
                         </td>
                         <td>H2S, SO2, NO, NO2, HCHO, CI2, mercaptan, dimethyl sulfide, phosphine, ethylene, alcohol</td>
@@ -212,7 +212,7 @@
                         <td>
                             <div class="tf">
                                 <img src="img/Powder.png">
-                                ACRUX POWDER
+                                <a href="#10">ACRUX POWDER</a>
                             </div>
                         </td>
                         <td>H2S, SO2, NO, NO2, HCHO, Mercury, VOCs</td>
@@ -249,7 +249,7 @@
                     </p>
                     <div class="buttons">
                         <a href="contact.php" class="button">Inquiry Now</a>
-                        <a href="PDFs/ACRUX.pdf" class="button more__info--button" target="__blank">Datahseet</a>
+                        <a href="PDFs/ACRUX.pdf" class="button more__info--button" target="__blank">Data Sheet</a>
                     </div>
                 </div>
             </div>
@@ -281,7 +281,7 @@
                     </p>
                     <div class="buttons">
                         <a href="contact.php" class="button">Inquiry Now</a>
-                        <a href="PDFs/Pollux MgO.pdf" class="button more__info--button" target="__blank">Datahseet</a>
+                        <a href="PDFs/Pollux MgO.pdf" class="button more__info--button" target="__blank">Data Sheet</a>
                     </div>
                 </div>
 
@@ -319,7 +319,7 @@
                     </p>
                     <div class="buttons">
                         <a href="contact.php" class="button">Inquiry Now</a>
-                        <a href="PDFs/Pollux KOH.pdf" class="button more__info--button" target="__blank">Datahseet</a>
+                        <a href="PDFs/Pollux KOH.pdf" class="button more__info--button" target="__blank">Data Sheet</a>
                     </div>
                 </div>
             </div>
@@ -344,7 +344,7 @@
                     </p>
                     <div class="buttons">
                         <a href="contact.php" class="button">Inquiry Now</a>
-                        <a href="PDFs/VEGA.pdf" class="button more__info--button" target="__blank">Datahseet</a>
+                        <a href="PDFs/VEGA.pdf" class="button more__info--button" target="__blank">Data Sheet</a>
                     </div>
                 </div>
 
@@ -384,7 +384,7 @@
                     </p>
                     <div class="buttons">
                         <a href="contact.php" class="button">Inquiry Now</a>
-                        <a href="PDFs/Orion 8_.pdf" class="button more__info--button" target="__blank">Datahseet</a>
+                        <a href="PDFs/Orion 8_.pdf" class="button more__info--button" target="__blank">Data Sheet</a>
                     </div>
                 </div>
             </div>
@@ -412,7 +412,7 @@
                     </p>
                     <div class="buttons">
                         <a href="contact.php" class="button">Inquiry Now</a>
-                        <a href="PDFs/Orion 12_.pdf" class="button more__info--button" target="__blank">Datahseet</a>
+                        <a href="PDFs/Orion 12_.pdf" class="button more__info--button" target="__blank">Data Sheet</a>
                     </div>
                 </div>
 
@@ -450,7 +450,7 @@
                     </p>
                     <div class="buttons">
                         <a href="contact.php" class="button">Inquiry Now</a>
-                        <a href="PDFs/Orion 12_.pdf" class="button more__info--button" target="__blank">Datahseet</a>
+                        <a href="PDFs/Orion 12_.pdf" class="button more__info--button" target="__blank">Data Sheet</a>
                     </div>
                 </div>
             </div>
@@ -477,7 +477,7 @@
                     </p>
                     <div class="buttons">
                         <a href="contact.php" class="button">Inquiry Now</a>
-                        <a href="PDFs/GAC Blend.pdf" class="button more__info--button" target="__blank">Datahseet</a>
+                        <a href="PDFs/GAC Blend.pdf" class="button more__info--button" target="__blank">Data Sheet</a>
                     </div>
                 </div>
 
@@ -514,7 +514,7 @@
                     </p>
                     <div class="buttons">
                         <a href="contact.php" class="button">Inquiry Now</a>
-                        <a href="PDFs/C-GAC Blend.pdf" class="button more__info--button" target="__blank">Datahseet</a>
+                        <a href="PDFs/C-GAC Blend.pdf" class="button more__info--button" target="__blank">Data Sheet</a>
                     </div>
                 </div>
             </div>
@@ -542,7 +542,7 @@
                     </p>
                     <div class="buttons">
                         <a href="contact.php" class="button">Inquiry Now</a>
-                        <a href="PDFs/Acurx GAC.pdf" class="button more__info--button" target="__blank">Datahseet</a>
+                        <a href="PDFs/Acurx GAC.pdf" class="button more__info--button" target="__blank">Data Sheet</a>
                     </div>
                 </div>
 
@@ -582,7 +582,7 @@
                     </p>
                     <div class="buttons">
                         <a href="contact.php" class="button">Inquiry Now</a>
-                        <a href="PDFs/Acrux C-GAC.pdf" class="button more__info--button" target="__blank">Datahseet</a>
+                        <a href="PDFs/Acrux C-GAC.pdf" class="button more__info--button" target="__blank">Data Sheet</a>
                     </div>
                 </div>
             </div>
@@ -617,7 +617,7 @@
                     </p>
                     <div class="buttons">
                         <a href="contact.php" class="button">Inquiry Now</a>
-                        <a href="PDFs/Acrux Powder.pdf" class="button more__info--button" target="__blank">Datahseet</a>
+                        <a href="PDFs/Acrux Powder.pdf" class="button more__info--button" target="__blank">Data Sheet</a>
                     </div>
                 </div>
 

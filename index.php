@@ -148,7 +148,7 @@
         </div>
         <div class="buttons">
           <a href="contact.php" class="button">Inquiry Now</a>
-          <a href="molecular.php#0" class="button more__info--button">Datahseet</a>
+          <a href="molecular.php#0" class="button more__info--button">Data Sheet</a>
         </div>
       </div>
     </section>

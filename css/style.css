@@ -853,7 +853,7 @@ h2 {
     padding-top: 10rem;
     padding-bottom: 10rem;
     margin: var(--center);
-    width: var(--width);
+    width: 100rem;
 }
 
 #products__table h2 {
@@ -875,8 +875,13 @@ th, td {
     border: 1px solid black;
     padding: 8px;
     text-align: center;
-    height: 6rem;
+    /* height: 6rem; */
     font-size: 1.6rem;
+}
+
+td a {
+    color: black;
+    text-decoration: underline;
 }
 
 th {
@@ -895,6 +900,7 @@ table tr td:first-of-type img {
     width: 5rem;
     height: 5rem;
     object-fit: contain;
+    display: none;
 }
 
 table tr td:first-of-type .button {
@@ -1268,9 +1274,9 @@ footer p {
     font-size: 5rem;
 }
 
-.servicio.equipment .contenido .left {
+/* .servicio.equipment .contenido .left {
     align-items: flex-start;
-}
+} */
 
 .servicio.equipment .contenido .left .button {
     box-shadow: 1rem 1rem 1.5rem rgba(0, 0, 0, 0.25);
