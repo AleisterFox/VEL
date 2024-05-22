@@ -53,7 +53,7 @@
         <section id="hero">
             <div class="container">
                 <figure>
-                    <img src="img/carbones.jpg" alt="">
+                    <img src="img/molecular-media.jpg" alt="">
                 </figure>
             </div>
             <div class="texto">

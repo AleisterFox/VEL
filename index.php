@@ -170,7 +170,7 @@
 
     </section>
 
-    <section id="products__table">
+    <!-- <section id="products__table">
       <table>
         <thead>
           <tr>
@@ -336,7 +336,7 @@
           </tr>
         </tbody>
       </table>
-    </section>
+    </section> -->
 
     <section id="contact">
       <div class="bg">
