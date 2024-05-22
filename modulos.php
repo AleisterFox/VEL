@@ -90,14 +90,15 @@
                                 <li>MgO 10% (H2S)</li>
                                 <li>KOH 10% (H2S)</li>
                             </ul>
+                            <a href="PDFs/VEL Modules.pdf" target="__blank" class="button">Datahseet</a>
                         </div>
                         <div class="right">
                             <figure>
                                 <img src="img/p18.png" alt="">
                             </figure>
-                            <div class="datasheet">
-                                <a href="PDFs/VEL Modules.pdf" target="__blank" class="button">More Info</a>
-                            </div>
+                            <!-- <div class="datasheet">
+                                <a href="PDFs/VEL Modules.pdf" target="__blank" class="button">Datahseet</a>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -111,9 +112,9 @@
                             <figure>
                                 <img src="img/p12.png" alt="">
                             </figure>
-                            <div class="datasheet">
-                                <a href="PDFs/VEL Modules.pdf" target="__blank" class="button">More Info</a>
-                            </div>
+                            <!-- <div class="datasheet">
+                                <a href="PDFs/VEL Modules.pdf" target="__blank" class="button">Datahseet</a>
+                            </div> -->
                         </div>
                         <div class="left">
                             <p>Cassettes (modules) for any new or retrofit application in a module- or cassette-based system - Side Access units, Recirculation Units, or Positive Pressurization units.</p>
@@ -124,6 +125,7 @@
                                 <li>MgO 10% (H2S)</li>
                                 <li>KOH 10% (H2S)</li>
                             </ul>
+                            <a href="PDFs/VEL Modules.pdf" target="__blank" class="button">Datahseet</a>
                         </div>
 
                     </div>

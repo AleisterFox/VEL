@@ -64,7 +64,7 @@
           <p>Experts in Gas Filtration and Clean Air Solutions.</p>
         </div>
         <div class="paragraph">
-          <p>A subsidiary of <a href="https://heycarbons.com/" target="__blank">Heycarbons <img src="img/image2.png" alt=""></a>, bringing you factory direct pricing for activated carbon and equipment, 25 years of experience, direct factory present in Canada, United States, Mexico and Colombia, world-wide factory support, and a well-established strategy for OEMs, Biogas, RNG, Corrosion, and service industries.</p>
+          <p>A subsidiary of <a href="https://heycarbons.com/" target="__blank">Heycarbons <img src="img/image2.png" alt=""></a>, bringing you factory direct pricing for activated carbon and equipment, 25 years of experience, direct factory personnel, in Canada, United States, Mexico and Colombia, world-wide factory support, and a well-established strategy for OEMs, Biogas, RNG, Corrosion, and service industries.</p>
         </div>
         <div class="linea"></div>
       </div>
@@ -148,7 +148,7 @@
         </div>
         <div class="buttons">
           <a href="contact.php" class="button">Inquiry Now</a>
-          <a href="molecular.php#0" class="button more__info--button">More Info</a>
+          <a href="molecular.php#0" class="button more__info--button">Datahseet</a>
         </div>
       </div>
     </section>

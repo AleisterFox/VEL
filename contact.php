@@ -64,11 +64,16 @@
                     </div>
                     <div class="paragraph">
                         <p>Direction</p>
+                        <p>US Office Nokomis, FL</p>
                         <p>USA-Canada: </p>
-                        <p>Colombia: </p>
-                        <p>México: </p>
                         <a href="mailto:info@vel-international.com"><i class="fas fa-envelope"></i>&nbsp;info@vel-international.com</a>
                         <a href="tel:+1 832 314 8905">+1 832 314 8905</a>
+                        <p>Colombia: </p>
+                        <a href="mailto:velcolombia@vel-international.com"><i class="fas fa-envelope"></i>&nbsp;velcolombia@vel-international.com</a>
+                        <p>México: </p>
+                        <a href="mailto:velmexico@vel-international.com"><i class="fas fa-envelope"></i>&nbsp;velmexico@vel-international.com</a>
+                        <!-- <a href="mailto:info@vel-international.com"><i class="fas fa-envelope"></i>&nbsp;info@vel-international.com</a> -->
+                        
 
                     </div>
                     <!-- <div class="linea"></div> -->

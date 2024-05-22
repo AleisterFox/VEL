@@ -249,7 +249,7 @@
                     </p>
                     <div class="buttons">
                         <a href="contact.php" class="button">Inquiry Now</a>
-                        <a href="PDFs/ACRUX.pdf" class="button more__info--button" target="__blank">More Info</a>
+                        <a href="PDFs/ACRUX.pdf" class="button more__info--button" target="__blank">Datahseet</a>
                     </div>
                 </div>
             </div>
@@ -281,7 +281,7 @@
                     </p>
                     <div class="buttons">
                         <a href="contact.php" class="button">Inquiry Now</a>
-                        <a href="PDFs/Pollux MgO.pdf" class="button more__info--button" target="__blank">More Info</a>
+                        <a href="PDFs/Pollux MgO.pdf" class="button more__info--button" target="__blank">Datahseet</a>
                     </div>
                 </div>
 
@@ -319,7 +319,7 @@
                     </p>
                     <div class="buttons">
                         <a href="contact.php" class="button">Inquiry Now</a>
-                        <a href="PDFs/Pollux KOH.pdf" class="button more__info--button" target="__blank">More Info</a>
+                        <a href="PDFs/Pollux KOH.pdf" class="button more__info--button" target="__blank">Datahseet</a>
                     </div>
                 </div>
             </div>
@@ -344,7 +344,7 @@
                     </p>
                     <div class="buttons">
                         <a href="contact.php" class="button">Inquiry Now</a>
-                        <a href="PDFs/VEGA.pdf" class="button more__info--button" target="__blank">More Info</a>
+                        <a href="PDFs/VEGA.pdf" class="button more__info--button" target="__blank">Datahseet</a>
                     </div>
                 </div>
 
@@ -384,7 +384,7 @@
                     </p>
                     <div class="buttons">
                         <a href="contact.php" class="button">Inquiry Now</a>
-                        <a href="PDFs/Orion 8_.pdf" class="button more__info--button" target="__blank">More Info</a>
+                        <a href="PDFs/Orion 8_.pdf" class="button more__info--button" target="__blank">Datahseet</a>
                     </div>
                 </div>
             </div>
@@ -412,7 +412,7 @@
                     </p>
                     <div class="buttons">
                         <a href="contact.php" class="button">Inquiry Now</a>
-                        <a href="PDFs/Orion 12_.pdf" class="button more__info--button" target="__blank">More Info</a>
+                        <a href="PDFs/Orion 12_.pdf" class="button more__info--button" target="__blank">Datahseet</a>
                     </div>
                 </div>
 
@@ -450,7 +450,7 @@
                     </p>
                     <div class="buttons">
                         <a href="contact.php" class="button">Inquiry Now</a>
-                        <a href="PDFs/Orion 12_.pdf" class="button more__info--button" target="__blank">More Info</a>
+                        <a href="PDFs/Orion 12_.pdf" class="button more__info--button" target="__blank">Datahseet</a>
                     </div>
                 </div>
             </div>
@@ -477,7 +477,7 @@
                     </p>
                     <div class="buttons">
                         <a href="contact.php" class="button">Inquiry Now</a>
-                        <a href="PDFs/GAC Blend.pdf" class="button more__info--button" target="__blank">More Info</a>
+                        <a href="PDFs/GAC Blend.pdf" class="button more__info--button" target="__blank">Datahseet</a>
                     </div>
                 </div>
 
@@ -514,7 +514,7 @@
                     </p>
                     <div class="buttons">
                         <a href="contact.php" class="button">Inquiry Now</a>
-                        <a href="PDFs/C-GAC Blend.pdf" class="button more__info--button" target="__blank">More Info</a>
+                        <a href="PDFs/C-GAC Blend.pdf" class="button more__info--button" target="__blank">Datahseet</a>
                     </div>
                 </div>
             </div>
@@ -542,7 +542,7 @@
                     </p>
                     <div class="buttons">
                         <a href="contact.php" class="button">Inquiry Now</a>
-                        <a href="PDFs/Acurx GAC.pdf" class="button more__info--button" target="__blank">More Info</a>
+                        <a href="PDFs/Acurx GAC.pdf" class="button more__info--button" target="__blank">Datahseet</a>
                     </div>
                 </div>
 
@@ -582,7 +582,7 @@
                     </p>
                     <div class="buttons">
                         <a href="contact.php" class="button">Inquiry Now</a>
-                        <a href="PDFs/Acrux C-GAC.pdf" class="button more__info--button" target="__blank">More Info</a>
+                        <a href="PDFs/Acrux C-GAC.pdf" class="button more__info--button" target="__blank">Datahseet</a>
                     </div>
                 </div>
             </div>
@@ -617,7 +617,7 @@
                     </p>
                     <div class="buttons">
                         <a href="contact.php" class="button">Inquiry Now</a>
-                        <a href="PDFs/Acrux Powder.pdf" class="button more__info--button" target="__blank">More Info</a>
+                        <a href="PDFs/Acrux Powder.pdf" class="button more__info--button" target="__blank">Datahseet</a>
                     </div>
                 </div>
 
