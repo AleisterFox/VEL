@@ -478,6 +478,13 @@
       "TargetApplication": "Mercury, CODs, BODs, and VOCs of high molecular weight, such as terpenes, hydrocarbons, toluene",
       "3Items": "WWT, Mercury, VOCs",
       "img": "img/Powder.png"
+    },
+    "12": {
+      "Nombre": "PolluxSorb",
+      "MediaType": "Lorem Ipsum Dolor",
+      "TargetApplication": "Lorem ipsum dolor sit amet consectetur adepsicing elit",
+      "3Items": "lorem, ipsum, dolor",
+      "img": "img/PolluxSorb.jpg"
     }
   }
 

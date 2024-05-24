@@ -72,7 +72,7 @@
         </section>
 
         <section id="products__table">
-            <h2>VEL Medias</h2>
+            <h2>VEL Carbons</h2>
             <table>
                 <thead>
                     <tr>
@@ -257,7 +257,7 @@
 
         <section id="1" class="info__tab">
             <div id="product__info">
-                
+
 
                 <div class="description">
                     <h3>Pollux MgO</h3>
@@ -625,6 +625,41 @@
                     <figure>
                         <img src="img/Powder.png" alt="">
                     </figure>
+                </div>
+            </div>
+        </section>
+
+        <section id="12" class="info__tab">
+            <div id="product__info">
+                <div class="picture">
+                    <figure>
+                        <img src="img/PolluxSorb.jpg" alt="">
+                    </figure>
+                </div>
+
+                <div class="description">
+                    <h3>PolluxSorb</h3>
+                    <hr>
+                    <p>Our PolluxSorb is made from premium iron
+                        oxide, ferrous sulfate, chemical
+                        accelerators, and pore-forming agents.
+                        The distinctive properties of iron oxide
+                        ensure exceptional adsorption capacity
+                        and efficiency for hydrogen sulfide (H2S),
+                        especially in applications exceeding 50
+                        ppm. Its ability to remove 25% of its weight
+                        in H2S surpasses that of activated carbon.
+                        Suitable for water-saturated gas
+                        applications.
+                        PolluxSorb features excellent mechanical
+                        properties and is specifically designed for
+                        use in applications such as biogas, RNG,
+                        metallurgy, and petrochemicals.
+                    </p>
+                    <div class="buttons">
+                        <a href="contact.php" class="button">Inquiry Now</a>
+                        <a href="PDFs/PolluxSorb.pdf" class="button more__info--button" target="__blank">Data Sheet</a>
+                    </div>
                 </div>
             </div>
         </section>

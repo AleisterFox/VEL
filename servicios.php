@@ -144,7 +144,7 @@
                         <div class="left">
                             <img src="img/cm.png" alt="">
 
-                            <p>If you require help with activated carbon, filters, or power equipment application, rest assured, we are well-versed in these areas. Our expertise comes from years more than 20 years of experience working with these manufacturers, and this is our specialty</p>
+                            <p>If you require help with the application of activated carbon, or gas-phase equipment, rest assured, we are well-versed in these areas. Our expertise comes from more than 20 years of experience working in the industry and a team of professionals such as technicians and engineers, who are experts in the field.</p>
 
                             <ul>
                                 <li>Gas-Phase (carbon): Biogas, wastewater, odor control, corrosion control, H2S control, petrochemical, and more.</li>
