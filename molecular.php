@@ -94,7 +94,7 @@
                         <td>
                             <div class="tf">
                                 <img src="img/Acrux-GAC.jpg">
-                                <a href="#1">ACRUX GAC</a>
+                                <a href="#9">ACRUX GAC</a>
                             </div>
                         </td>
                         <td>NO2, CI2, Common VOCs including toluene, alcohol, acetone, ozone</td>
@@ -104,7 +104,7 @@
                         <td>
                             <div class="tf">
                                 <img src="img/Acrux-C-GAC.jpg">
-                                <a href="#2">ACRUX C-GAC (coconut shell)</a>
+                                <a href="#10">ACRUX C-GAC (coconut shell)</a>
                             </div>
                         </td>
                         <td>NO2, CI2, Common VOCs including toluene, alcohol, acetone, ozone</td>
@@ -114,7 +114,7 @@
                         <td>
                             <div class="tf">
                                 <img src="img/Pollux-KOH-MgO.jpg">
-                                <a href="#3">Pollux KOH</a>
+                                <a href="#2">Pollux KOH</a>
                             </div>
                         </td>
                         <td>H2S, Mercaptan</td>
@@ -124,7 +124,7 @@
                         <td>
                             <div class="tf">
                                 <img src="img/Pollux-KOH-MgO.jpg">
-                                <a href="#4">Pollux MgO</a>
+                                <a href="#1">Pollux MgO</a>
                             </div>
                         </td>
                         <td>H2S, Mercaptan</td>
@@ -134,7 +134,7 @@
                         <td>
                             <div class="tf">
                                 <img src="img/ACRUX-VEGA.jpg">
-                                <a href="#5">Vega</a>
+                                <a href="#3">Vega</a>
                             </div>
                         </td>
                         <td>NH3</td>
@@ -155,7 +155,7 @@
                         <td>
                             <div class="tf">
                                 <img src="img/Orion-8-12.jpg">
-                                <a href="#6">Orion</a>
+                                <a href="#4">Orion</a>
                             </div>
                         </td>
                         <td>H2S, SO2, NO2, NO, HCHO, mercaptan, dimethyl sulfide, phosphine, ethylene, alcohol</td>
@@ -174,7 +174,7 @@
                         <td>
                             <div class="tf">
                                 <img src="img/VEL-Blend.png">
-                                <a href="#7">VEL Blend</a>
+                                <a href="#6">VEL Blend</a>
                             </div>
                         </td>
                         <td>H2S, SO2, NO, HCHO, NO2, ethylene, mercaptan, dimethyl sulfide, (VOCs) toluene, alcohol, acetone, ozone</td>
@@ -183,7 +183,7 @@
                         <td>
                             <div class="tf">
                                 <img src="img/C-GAC-GAC.png">
-                                <a href="#8">VEL GAC BLEND</a>
+                                <a href="#7">VEL GAC BLEND</a>
                             </div>
                         </td>
                         <td>H2S, SO2, NO, NO2, HCHO, CI2, mercaptan, dimethyl sulfide, phosphine, ethylene, alcohol</td>
@@ -192,7 +192,7 @@
                         <td>
                             <div class="tf">
                                 <img src="img/C-GAC-GAC.png">
-                                <a href="#9">VEL C-GAC BLEND</a>
+                                <a href="#8">VEL C-GAC BLEND</a>
                             </div>
                         </td>
                         <td>H2S, SO2, NO, NO2, HCHO, CI2, mercaptan, dimethyl sulfide, phosphine, ethylene, alcohol</td>
@@ -212,7 +212,7 @@
                         <td>
                             <div class="tf">
                                 <img src="img/Powder.png">
-                                <a href="#10">ACRUX POWDER</a>
+                                <a href="#11">ACRUX POWDER</a>
                             </div>
                         </td>
                         <td>H2S, SO2, NO, NO2, HCHO, Mercury, VOCs</td>

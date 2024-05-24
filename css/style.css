@@ -1287,16 +1287,21 @@ footer p {
 }
 
 .servicio.equipment .contenido .right figure {
-    width: 30rem;
+    width: 50rem;
     border-radius: 2rem;
     overflow: hidden;
     box-shadow: -1rem 1rem 1.5rem rgba(0, 0, 0, 0.25);
+}
+
+#servicios .servicio.equipment .contenido:nth-child(2) .right figure {
+    width: 30rem !important;
 }
 
 .servicio.equipment .contenido .right {
     display: flex;
     align-items: center;
     justify-content: center;
+    overflow: visible;
 }
 
 .servicio.equipment .contenido {
