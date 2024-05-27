@@ -693,13 +693,13 @@
                         <img src="img/logo.png" alt="">
                     </figure>
                     <div class="contact__links">
-                        <a href="" target="__blank"><i class="far fa-globe"></i>
+                        <a href="" target="__blank"><i class="fas fa-globe"></i>
                             <p>www.vel-international.com</p>
                         </a>
-                        <a href="" target="__blank"><i class="far fa-envelope"></i>
+                        <a href="" target="__blank"><i class="fas fa-envelope"></i>
                             <p>info@vel-international.com</p>
                         </a>
-                        <a href="" target="__blank"><i class="far fa-mobile"></i>
+                        <a href="" target="__blank"><i class="fas fa-mobile"></i>
                             <p>+1 832 314 8905</p>
                         </a>
                     </div>

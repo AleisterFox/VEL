@@ -136,13 +136,13 @@
         </div>
         <hr>
         <div class="contact__links">
-          <a href="" target="__blank"><i class="far fa-globe"></i>
+          <a href="" target="__blank"><i class="fas fa-globe"></i>
             <p>www.vel-international.com</p>
           </a>
-          <a href="" target="__blank"><i class="far fa-envelope"></i>
+          <a href="" target="__blank"><i class="fas fa-envelope"></i>
             <p>info@vel-international.com</p>
           </a>
-          <a href="" target="__blank"><i class="far fa-mobile"></i>
+          <a href="" target="__blank"><i class="fas fa-mobile"></i>
             <p>+1 832 314 8905</p>
           </a>
         </div>
@@ -161,8 +161,8 @@
         </div>
 
         <div data-glide-el="controls">
-          <button data-glide-dir="<"><i class="far fa-arrow-left"></i></button>
-          <button data-glide-dir=">"><i class="far fa-arrow-right"></i></button>
+          <button data-glide-dir="<"><i class="fas fa-arrow-left"></i></button>
+          <button data-glide-dir=">"><i class="fas fa-arrow-right"></i></button>
         </div>
       </div>
 
@@ -367,13 +367,13 @@
             <img src="img/logo.png" alt="">
           </figure>
           <div class="contact__links">
-            <a href="" target="__blank"><i class="far fa-globe"></i>
+            <a href="" target="__blank"><i class="fas fa-globe"></i>
               <p>www.vel-international.com</p>
             </a>
-            <a href="" target="__blank"><i class="far fa-envelope"></i>
+            <a href="" target="__blank"><i class="fas fa-envelope"></i>
               <p>info@vel-international.com</p>
             </a>
-            <a href="" target="__blank"><i class="far fa-mobile"></i>
+            <a href="" target="__blank"><i class="fas fa-mobile"></i>
               <p>+1 832 314 8905</p>
             </a>
           </div>
