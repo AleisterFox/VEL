@@ -146,11 +146,11 @@
 
                             <p>If you require help with the application of activated carbon, or gas-phase equipment, rest assured, we are well-versed in these areas. Our expertise comes from more than 20 years of experience working in the industry and a team of professionals such as technicians and engineers, who are experts in the field.</p>
 
-                            <ul>
-                                <li>Gas-Phase (carbon): Biogas, wastewater, odor control, corrosion control, H2S control, petrochemical, and more.</li>
-                                <li>Filters: Commercial and Industrial applications</li>
-                                <li>Power equipment: Motors for variable and constant torque applications, automation equipment, and large generators.</li>
-                            </ul>
+                                <!-- <ul>
+                                    <li>Gas-Phase (carbon): Biogas, wastewater, odor control, corrosion control, H2S control, petrochemical, and more.</li>
+                                    <li>Filters: Commercial and Industrial applications</li>
+                                    <li>Power equipment: Motors for variable and constant torque applications, automation equipment, and large generators.</li>
+                                </ul> -->
                         </div>
                         <div class="right">
                             <figure>

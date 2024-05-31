@@ -72,7 +72,7 @@
         </section>
 
         <section id="products__table">
-            <h2>VEL Carbons</h2>
+            <h2>VEL CARBON</h2>
             <table>
                 <thead>
                     <tr>
