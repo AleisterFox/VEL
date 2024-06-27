@@ -34,7 +34,7 @@
 
 
   <div class="whatsapp">
-    <a href="https://wa.link/pnj10v" target="_blank"><i class="fab fa-whatsapp"></i></a>
+    <a href="https://wa.link/xodbf6" target="_blank"><i class="fab fa-whatsapp"></i></a>
   </div>
 
   <!-- <div class="loader__screen" id="loader">
@@ -481,9 +481,9 @@
     },
     "12": {
       "Nombre": "PolluxSorb",
-      "MediaType": "Lorem Ipsum Dolor",
-      "TargetApplication": "Lorem ipsum dolor sit amet consectetur adepsicing elit",
-      "3Items": "lorem, ipsum, dolor",
+      "MediaType": "Iron Oxide base",
+      "TargetApplication": "Exclusive for Biogas H2S control",
+      "3Items": " Up to 22,000 ppms of H2S, Low cost, 0.3 g/cc",
       "img": "img/PolluxSorb.jpg"
     }
   }

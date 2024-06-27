@@ -33,7 +33,7 @@
 
 
     <div class="whatsapp">
-        <a href="https://wa.link/pnj10v" target="_blank"><i class="fab fa-whatsapp"></i></a>
+        <a href="https://wa.link/xodbf6" target="_blank"><i class="fab fa-whatsapp"></i></a>
     </div>
 
     <!-- <div class="loader__screen" id="loader">

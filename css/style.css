@@ -714,6 +714,7 @@ h2 {
 
 #product__info .item p {
     font-weight: 700;
+    text-align: center;
 }
 
 #product__info .description {
@@ -838,9 +839,14 @@ h2 {
     height: 60rem;
 }
 
+#products__carousel .glide__slide .button__secondary {
+    display: none;
+}
+
 #products__carousel .glide__slide--active .button__secondary {
     background-color: black;
     color: white;
+    display: flex;
 }
 
 /* PRODUCTS CAROUSEL  */
